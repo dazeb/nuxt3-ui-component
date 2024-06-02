@@ -22,7 +22,7 @@
   "dependencies": {
     "@morpheme/nuxt": "^1.0.0-rc.10",
     "@sidebase/nuxt-auth": "0.4.4",
-    "next-auth": "4.21.1"
+    "next-auth": "4.24.5"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.8.0",
